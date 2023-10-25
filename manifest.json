@@ -13,7 +13,7 @@
       "32": "images/icon-32x32.png",
       "48": "images/icon-48x48.png"
    },
-   "manifest_version": 2,
+   "manifest_version": 3,
    "name": "__MSG_appName__",
    "update_url": "https://clients2.google.com/service/update2/crx",
    "version": "0.0.7"
